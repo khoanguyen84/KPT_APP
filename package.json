@@ -1,0 +1,19 @@
+{
+  "name": "kpt_app",
+  "version": "1.0.0",
+  "description": "1. Khoa\r 2. Pháp\r 3. Tiến",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoanguyen84/KPT_APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoanguyen84/KPT_APP/issues"
+  },
+  "homepage": "https://github.com/khoanguyen84/KPT_APP#readme"
+}
